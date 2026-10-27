@@ -163,19 +163,3 @@
   }
 }
 
-.construction-screen {
-  display: grid;
-  min-height: 100svh;
-  place-items: center;
-  padding: 24px;
-}
-
-.construction-screen h1 {
-  max-width: 100%;
-  margin: 0;
-  font-size: clamp(2.5rem, 7vw, 6rem);
-  font-weight: 600;
-  letter-spacing: -0.055em;
-  line-height: 1.05;
-  text-align: center;
-}
