@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Under Construction — Still Building',
-  description: 'We’re putting the finishing touches on something new. Check back soon — it’ll be worth the wait.',
+  title: 'Under construction',
+  description: 'This site is under construction.',
   generator: 'v0.app',
   icons: {
     icon: [

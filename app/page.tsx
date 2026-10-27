@@ -1,6 +1,8 @@
-import UnderConstructionPage from '@/components/under-construction'
-
 export default function Page() {
-  return <UnderConstructionPage />
+  return (
+    <main className="construction-screen">
+      <h1>Under construction</h1>
+    </main>
+  )
 }
 
